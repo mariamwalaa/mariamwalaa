@@ -14,4 +14,55 @@ My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for 
 
 - 🌐 I am proficient with programming languages including R and PYthon, as well as ArcGIS Products, with strong skills in SQL and Google Cloud Platform.
 
+## My Projects
+
+Here are some of the projects I've worked on:
+
+### 📚 Arxiv Recommendation System
+
+- Description: Developed a recommendation system for arXiv research papers using machine learning techniques.
+- GitHub Repository: [ArxivRecSys](https://github.com/mariamwalaa/ArxivRecSys)
+
+### 📊 Simpson's Paradox Detection Function
+
+- Description: Created a Python function to detect instances of Simpson's Paradox in datasets.
+- GitHub Repository: [SimpsonsParadox](https://github.com/ehart-altair/SimpsonsParadox) ![GitHub stars](https://img.shields.io/github/stars/ehart-altair/SimpsonsParadox?style=social) ![GitHub forks](https://img.shields.io/github/forks/ehart-altair/SimpsonsParadox?style=social)
+
+### 📚 DOSS Learning Toolkit for Undergrads in Statistical Sciences at UofT
+
+- Description: Developing a learning toolkit for undergraduate students in statistical sciences at the University of Toronto.
+- GitHub Repository: [DoSStoolkit](https://github.com/RohanAlexander/DoSStoolkit)
+
+### 📈 Machine Learning on Employee Turnover
+
+- Description: Conducted a machine learning analysis to predict employee turnover in a corporate setting.
+- GitHub Repository: [EmployeeTurnover-ML](https://github.com/mariamwalaa/EmployeeTurnover-ML)
+
+### ✍️ Tutorial Worksheets
+
+#### Linear Programming
+
+- Description: Designed tutorial worksheets to help learners understand the fundamentals of linear programming.
+- GitHub Repository: [MATB61-LinearProgramming-W22](https://github.com/mariamwalaa/TutorialSheets/tree/main/MATB61-LinearProgramming-W22)
+
+#### Linear Algebra
+
+- Description: Created educational materials, including worksheets, for teaching linear algebra concepts.
+- GitHub Repository: [linear-algebra-tutorial](https://github.com/mariamwalaa/TutorialSheets)
+
+#### Calculus
+
+- Description: Developed tutorial worksheets to facilitate learning of calculus concepts.
+- GitHub Repository: [calculus-tutorial](https://github.com/mariamwalaa/TutorialSheets)
+
+### 🧮 Learning Guide for Discrete Mathematics
+
+- Description: Compiled a comprehensive learning guide for discrete mathematics, including resources and exercises.
+- GitHub Repository: [DiscreteMath-LearningGuide](https://github.com/mariamwalaa/DiscreteMath-LearningGuide)
+
+Feel free to explore these projects by visiting the respective GitHub repositories. 
+
+If you have any questions or feedback, please don't hesitate to reach out!
+
 ![alt text](pexels-parth-shah-11721161.jpg)
+
