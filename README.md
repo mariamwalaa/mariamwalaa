@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Natural Language Processing, Recommendation Systems, Algorithms, Reproducible Workflows, Predictive Modeling, and Mathematical Optimization.
+My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Natural Language Processing, Recommendation Systems, Algorithms, Reproducible Workflows, Predictive Modeling, and Mathematical Optimization. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/Mariam_Walaa___CV_2023.pdf).
 
 ## About Me
 
@@ -23,17 +23,22 @@ Here are some of the projects I've worked on:
 - Description: Developed a recommendation system for arXiv research papers using machine learning techniques.
 - GitHub Repository: [ArxivRecSys](https://github.com/mariamwalaa/ArxivRecSys)
 
+### 📈 Stock Portfolio Optimization
+
+- Description: Developed a stock portfolio optimization tool with visualization capabilities and risk-return criteria selection.
+- GitHub Repository: [Stock Portfolio Optimization](https://github.com/mariamwalaa/StocksPortfolioOptimization)
+  
 ### 📊 Simpson's Paradox Detection Function
 
-- Description: Created a Python function to detect instances of Simpson's Paradox in datasets.
+- Description: Developed a Python function to detect instances of Simpson's Paradox in datasets.
 - GitHub Repository: [SimpsonsParadox](https://github.com/ehart-altair/SimpsonsParadox) ![GitHub stars](https://img.shields.io/github/stars/ehart-altair/SimpsonsParadox?style=social) ![GitHub forks](https://img.shields.io/github/forks/ehart-altair/SimpsonsParadox?style=social)
 
 ### 📚 DOSS Learning Toolkit for Undergrads in Statistical Sciences at UofT
 
-- Description: Developing a learning toolkit for undergraduate students in statistical sciences at the University of Toronto.
-- GitHub Repository: [DoSStoolkit](https://github.com/RohanAlexander/DoSStoolkit)
+- Description: Contributed to a learning toolkit for undergraduate students in statistical sciences at the University of Toronto.
+- GitHub Repository: [DoSStoolkit](https://github.com/RohanAlexander/DoSStoolkit)![GitHub stars](https://img.shields.io/github/stars/ehart-altair/SimpsonsParadox?style=social) ![GitHub forks](https://img.shields.io/github/forks/ehart-altair/SimpsonsParadox?style=social)
 
-### 📈 Machine Learning on Employee Turnover
+### 📈 Machine Learning For Employee Turnover
 
 - Description: Conducted a machine learning analysis to predict employee turnover in a corporate setting.
 - GitHub Repository: [EmployeeTurnover-ML](https://github.com/mariamwalaa/EmployeeTurnover-ML)
@@ -42,7 +47,7 @@ Here are some of the projects I've worked on:
 
 #### Linear Programming
 
-- Description: Designed tutorial worksheets to help learners understand the fundamentals of linear programming.
+- Description: Created tutorial worksheets to help learners understand the fundamentals of linear programming.
 - GitHub Repository: [MATB61-LinearProgramming-W22](https://github.com/mariamwalaa/TutorialSheets/tree/main/MATB61-LinearProgramming-W22)
 
 #### Linear Algebra
