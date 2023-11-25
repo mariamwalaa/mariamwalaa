@@ -53,11 +53,11 @@ I post tutorial worksheets and slides from my lab sessions.
 
 #### Linear Algebra I
 
-- GitHub Repository: [LinearAlgebra-I-F23]([https://github.com/mariamwalaa/TutorialSheets](https://github.com/mariamwalaa/TutorialMaterials/tree/main/LinearAlgebra-I-F23)
+- GitHub Repository: [LinearAlgebra-I-F23](https://github.com/mariamwalaa/TutorialSheets](https://github.com/mariamwalaa/TutorialMaterials/tree/main/LinearAlgebra-I-F23)
 
 #### Calculus I 
 
-- GitHub Repository: [Calculus-I-F23]([https://github.com/mariamwalaa/TutorialSheets](https://github.com/mariamwalaa/TutorialMaterials/tree/main/Calculus-I-F23)
+- GitHub Repository: [Calculus-I-F23](https://github.com/mariamwalaa/TutorialSheets](https://github.com/mariamwalaa/TutorialMaterials/tree/main/Calculus-I-F23)
 
 Feel free to explore these projects by visiting the respective GitHub repositories. 
 
