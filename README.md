@@ -4,7 +4,7 @@ My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for 
 
 ## About Me
 
-- 🎓 I am currently pursuing a Master of Science in Applied Mathematics at Toronto Metropolitan University, with a focus on Graph Theory. My expected graduation date is in 2025.
+- 🎓 I am currently pursuing a Master of Science in Applied Mathematics at Toronto Metropolitan University, with a research focus on Pursuit Evasion Games (Graph Theory). My expected graduation date is in 2025.
 
 - 🎓 I also hold an Honours Bachelor of Science in Mathematics, with minors in Statistics & Geographic Information Science, from the University of Toronto, which I completed in April 2023.
 
@@ -47,17 +47,9 @@ Here are some of the projects I've worked on:
 
 I post tutorial worksheets and slides from my lab sessions.
 
-#### Linear Programming & Optimization
-
-- GitHub Repository: [MATB61-LinearProgramming-W22](https://github.com/mariamwalaa/TutorialSheets/tree/main/MATB61-LinearProgramming-W22)
-
-#### Linear Algebra I
-
-- GitHub Repository: [LinearAlgebra-I-F23](https://github.com/mariamwalaa/TutorialMaterials/tree/main/LinearAlgebra-I-F23)
-
-#### Calculus I 
-
-- GitHub Repository: [Calculus-I-F23](https://github.com/mariamwalaa/TutorialMaterials/tree/main/Calculus-I-F23)
+- [MATB61-LinearProgramming-W22](https://github.com/mariamwalaa/TutorialSheets/tree/main/MATB61-LinearProgramming-W22)
+- [LinearAlgebra-I-F23](https://github.com/mariamwalaa/TutorialMaterials/tree/main/LinearAlgebra-I-F23)
+- [Calculus-I-F23](https://github.com/mariamwalaa/TutorialMaterials/tree/main/Calculus-I-F23)
 
 Feel free to explore these projects by visiting the respective GitHub repositories. 
 
