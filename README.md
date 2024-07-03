@@ -4,7 +4,7 @@ My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for 
 
 ## About Me
 
-- 🎓 I am currently pursuing a Master of Science in Applied Mathematics at Toronto Metropolitan University, with a research focus on Pursuit Evasion Games (Graph Theory). My expected graduation date is in 2025.
+- 🎓 I am currently pursuing a Master of Science in Applied Mathematics at Toronto Metropolitan University, with a research focus on Network Science and Graph Deep Learning. My expected graduation date is Spring 2025.
 
 - 🎓 I also hold an Honours Bachelor of Science in Mathematics, with minors in Statistics & Geographic Information Science, from the University of Toronto, which I completed in April 2023.
 
