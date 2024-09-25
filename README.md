@@ -12,7 +12,7 @@ My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for 
 
 - 💼 I have over 3 years of professional work experience in data science in engineering, retail, and social sciences, contributing to a wide range of projects that have made a significant impact.
 
-- 🌐 I am proficient with programming languages including R and PYthon, as well as ArcGIS Products, with strong skills in SQL and Google Cloud Platform.
+- 🌐 I am proficient with programming languages including R and PYthon, as well as ArcGIS Products, with strong skills in SQL.
 
 ## My Projects
 
