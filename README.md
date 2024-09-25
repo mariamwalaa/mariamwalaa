@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Natural Language Processing, Recommendation Systems, Algorithms, Reproducible Workflows, Predictive Modeling, and Mathematical Optimization. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/Mariam_Walaa___Resume_2024.pdf).
+My name is **Mariam Walaa**, I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Natural Language Processing, Recommendation Systems, and Predictive Modeling. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/Mariam_Walaa___Resume_2024.pdf).
 
 ## About Me
 
