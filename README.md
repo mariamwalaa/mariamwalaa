@@ -1,6 +1,6 @@
 # My Journey in Data Science
 
-My name is Mariam Walaa, and I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Natural Language Processing, Recommendation Systems, and Predictive Modeling. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
+My name is Mariam Walaa, and I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. My areas of interest are Recommendation Systems, Natural Language Processing, and Predictive Modeling. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
 
 ## My Education
 
@@ -8,11 +8,11 @@ My name is Mariam Walaa, and I am an aspiring data scientist with a passion for 
 
 - 🎓 I also hold an Honours Bachelor of Science in Mathematics, with minors in Statistics & Geographic Information Science, from the University of Toronto, which I completed in April 2023.
 
-- 🎓 In addition, I previously started a Bachelor of Business Administration (BBA) from the Schulich School of Business at York University, which I exited in 2017.
+- 🎓 In addition, I previously started a Bachelor of Business Administration (BBA) from the Schulich School of Business at York University, which I departed in 2017.
 
-- 💼 I have over 3 years of professional work experience in data science in engineering, retail, and social sciences, contributing to a wide range of projects that have made a significant impact.
+- 💼 I have over 5 years of internship experience working on data science in engineering, retail, and CPG, contributing to a range of projects that have made a significant impact.
 
-- 🌐 I am proficient with programming languages including R and PYthon, as well as ArcGIS Products, with strong skills in SQL.
+- 🌐 I am proficient in Python (pandas, numpy, etc.) and R (tidyverse), and actively improving on SQL and PySpark.
 
 ## My Projects
 
