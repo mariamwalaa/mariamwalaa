@@ -32,12 +32,8 @@ Here are some of the projects I've worked on:
 
 ### 📈 Stock Portfolio Optimization
 
-- Developed a stock portfolio optimization tool with visualization capabilities and risk-return criteria selection. [Repo](https://github.com/mariamwalaa/StocksPortfolioOptimization)
+- Developed a stock portfolio optimization tool with visualization capabilities and risk-return criteria selection. [Repo](https://github.com/mariamwalaa/StocksPortfolioOptimization)![GitHub stars](https://img.shields.io/github/stars/mariamwalaa/StocksPortfolioOptimization?style=social) ![GitHub forks](https://img.shields.io/github/forks/RohanAlexander/DoSStoolkit?style=social)
   
-### 📈 Machine Learning For Employee Turnover
-
-- Conducted a machine learning analysis to predict employee turnover in a corporate setting. [Repo](https://github.com/mariamwalaa/EmployeeTurnover-ML)
-
 ### ✍️ Tutorial Worksheets
 
 I used to post worksheets and slides from my tutorials/labs.
