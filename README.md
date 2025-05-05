@@ -26,6 +26,10 @@ Here are some of the projects I've worked on:
 
 - Contributed to a learning toolkit for undergraduate students in statistical sciences at the University of Toronto. [Repo](https://github.com/RohanAlexander/DoSStoolkit)![GitHub stars](https://img.shields.io/github/stars/RohanAlexander/DoSStoolkit?style=social) ![GitHub forks](https://img.shields.io/github/forks/RohanAlexander/DoSStoolkit?style=social)
 
+### 📚 Experience (Resume+Git) Chatbot
+
+- Developed a RAG chatbot that answers questions about my resume & Git portfolio using OpenAI's GPT, FAISS, and Streamlit UI. [Repo](https://github.com/mariamwalaa/LLM-Experiments)
+
 ### 📚 Arxiv Recommendation System
 
 - Developed a recommendation system for arXiv research papers using NLP. [Repo](https://github.com/mariamwalaa/ArxivRecSys)
