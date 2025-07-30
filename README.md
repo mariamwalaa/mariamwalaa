@@ -1,6 +1,6 @@
 ## Mariam's Data Science Portfolio
 
-I am data scientist with a passion for solving real-world problems using machine learning and data-driven insights in technology/software, retail, and CPG, contributing to a range of projects that have made a significant impact. I have over 6 years of experience leading end-to-end data science projects and building production-ready predictive models. Details are in my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
+I am data scientist with a passion for solving real-world problems using machine learning and data-driven insights, contributing to a range of projects that have made a significant impact. I have over 6 years of experience leading end-to-end data science projects and building production-ready predictive models in technology/software, retail, and CPG. Details are in my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
 
 ## Education
 
