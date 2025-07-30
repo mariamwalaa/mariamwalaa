@@ -1,20 +1,18 @@
-# My Journey in Data Science
+## Mariam's Data Science Portfolio
 
-My name is Mariam Walaa, and I am an aspiring data scientist with a passion for solving real-world problems using machine learning and data-driven insights. You can learn more about my background on my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
+I am data scientist with a passion for solving real-world problems using machine learning and data-driven insights in technology/software, retail, and CPG, contributing to a range of projects that have made a significant impact. I have over 6 years of experience leading end-to-end data science projects and building production-ready predictive models. Details are in my [resume](https://github.com/mariamwalaa/mariamwalaa/blob/main/MariamWalaa_Resume.pdf).
 
-## My Education
+## Education
 
-- 🎓 I am currently pursuing a Master of Science in Applied Mathematics at Toronto Metropolitan University, with a research focus on Network Science and Graph Deep Learning. My expected graduation date is April 2025.
+- 🎓 I hold Master of Science in Applied Mathematics from Toronto Metropolitan University, with my thesis focus at the intersection of Network Science and Machine Learning.
 
 - 🎓 I also hold an Honours Bachelor of Science in Mathematics, with minors in Statistics & Geographic Information Science, from the University of Toronto, which I completed in April 2023.
 
 - 🎓 In addition, I previously started a Bachelor of Business Administration (BBA) from the Schulich School of Business at York University, which I departed in 2017.
 
-- 💼 I have over 5 years of internship experience working on data science in technology/software, retail, and CPG, contributing to a range of projects that have made a significant impact.
+- 🌐 I am an *Expert* in Python (pandas, NumPy, scikit-learn, matplotlib) for data science and machine learning, and *Intermediate* in SQL (able to manipulate and analyze complex, large-scale datasets).
 
-- 🌐 I am proficient in Python (pandas, numpy, etc.) and R (tidyverse), and actively improving on SQL and PySpark.
-
-## My Projects
+## Projects
 
 Here are some of the projects I've worked on:
   
